@@ -1,0 +1,18 @@
+﻿# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+/build/
+obj/
+bin/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+.vs/
+*.user
+Migrations/
